@@ -1,4 +1,8 @@
 # IS-practical
+Name: Ritik kumar
+Exam roll: 20020570026
+college roll: 20201422
+
 Question : 10. Illustrate the Ciphertext only and Known Plaintext attacks.
 
 Answer: 
